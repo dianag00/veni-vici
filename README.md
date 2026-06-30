@@ -4,7 +4,7 @@ Submitted by: **Diana Guerrero**
 
 This web app: **Is a Game randomizer that displays a random game from the RAWG API.**
 
-Time spent: **3.5** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/mp8qPcK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Bv9fNsD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
